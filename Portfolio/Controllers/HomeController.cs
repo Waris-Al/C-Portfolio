@@ -29,6 +29,13 @@ namespace Portfolio.Controllers
             return View();
         }
 
+        public IActionResult Test()
+        {
+            ViewData["Message"] = "C# is easy";
+
+            return View();
+        }
+
         public IActionResult Privacy()
         {
             return View();
