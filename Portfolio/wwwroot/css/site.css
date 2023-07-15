@@ -36,10 +36,16 @@ body {
     }
 }
 
+/* styles.css */
 body {
-    background-image: url('https://images.squarespace-cdn.com/content/v1/60eecb626b2fe13816bc167f/74cc05fb-67ee-4fc6-934a-8efcec12af5b/winnats-pass-tim+hill+pixaby.jpg');
-    background-size: cover;
-    background-repeat: no-repeat;
-    width: 100%;
-    height: 100vh;
+    background-color: red;
+    font-family: 'Colonna MT';
+}
+
+h1 {
+    color: red;
+}
+
+p {
+    color: red;
 }

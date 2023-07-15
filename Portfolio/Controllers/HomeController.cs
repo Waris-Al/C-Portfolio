@@ -33,6 +33,7 @@ namespace Portfolio.Controllers
         {
             ViewData["Message"] = "C# is easy";
 
+
             return View();
         }
 
